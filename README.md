@@ -4,6 +4,7 @@
 
 This project involves the development of a Python-based tool for segmenting lungs from 3D DICOM images using the LungMask library. The tool includes a Gradio interface for loading DICOM stacks, visualizing segmented lungs, and calculating mean HU values and infill density. Users can generate 3D structures such as tumors and fibrosis within the lung and export the results as STL files for 3D printing.
 
+**Dataset**: [DICOM Files from Cancer Imaging Archive]([https://github.com/username/repository/dataset](https://drive.google.com/drive/folders/1P0pRC4kRtEcam33Q-ulzm368nexF2KKb?usp=drive_link))
 ## Features
 
 - **Lung Segmentation**: Uses the LungMask library to segment lungs from 3D DICOM images.
